@@ -1,0 +1,47 @@
+html, body {
+    background-color: rgb(212, 179, 179);
+}
+
+.nav-color{
+    background-color: rosybrown;
+}
+
+.navbar .navbar-search .btn {
+    background-color: rgb(136, 97, 97);
+
+}
+
+.carousel-item {
+    background-color: rgb(212, 179, 179);
+}
+
+.carousel-item img {
+    max-height: 440px;
+    max-width: 540px;
+    margin: auto;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-weight:bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+    background-color:  rgb(212, 179, 179) ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+  }
+
+.historia{
+    background-color:  rgb(212, 179, 179);
+    margin-bottom: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

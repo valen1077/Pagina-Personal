@@ -1,0 +1,148 @@
+html, body {
+    background-color: rgb(212, 179, 179) !important;
+
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.container {
+    background-color: rgb(212, 179, 179) ;
+}
+
+.colorasd {
+    background-color: rgb(212, 179, 179);
+}
+
+.nav-color{
+    background-color: rosybrown;
+}
+
+.btn-custom {
+    background-color:  rgb(152, 95, 95) !important;
+    color: #ffffff !important;
+  }
+
+.container-inicio {
+    display: flex;
+    align-items: center;
+    background-color: rgb(212, 179, 179);
+}
+
+.logo {
+    width: 300px;
+    margin-right: 100px;
+    margin-left: 110px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border: 1px solid black;
+} 
+
+.texto-logo {
+    border: 1px solid black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 110px;
+    background-color:  rgb(244, 216, 216);
+    font-size: 19px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(212, 179, 179);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.card {
+    width: 18rem;
+    margin-right: 30px;
+}
+
+.list-group {
+    width: 600px;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+.list-group-item.active {
+    border-color: rgb(179, 172, 172) !important;
+    background-color: rosybrown !important;
+    color: white;
+}
+
+footer {
+    background-color: #af7272;
+    padding: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+
+.carousel-item {
+    background-color: rgb(212, 179, 179);
+    padding-top: 50px;
+}
+
+.carousel-item img {
+    max-height: 440px;
+    max-width: 540px;
+    margin: auto;
+}
+
+#instalaciones {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(212, 179, 179);
+}
+
+.cont-login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 160px !important;
+    padding-top: 120px;
+}
+
+.cont-reg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 160px !important;
+    padding-top: 100px;
+}
+
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+    font-weight:bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+    background-color:  rgb(212, 179, 179) ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.historia{
+    background-color:  rgb(212, 179, 179);
+    margin-bottom: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

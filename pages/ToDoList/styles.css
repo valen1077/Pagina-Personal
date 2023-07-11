@@ -1,0 +1,20 @@
+body {
+  background-color: #7e3536 !important;
+  color: #333333;
+}
+
+.container {
+  max-width: 300px;
+  margin-top: 20px;
+  background-color: #b1a7a6;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.btn-custom {
+  background-color: #d6a8a8;
+}
+
+ul {
+  list-style-type: none;
+}
